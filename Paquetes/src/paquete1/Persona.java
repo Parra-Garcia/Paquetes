@@ -1,5 +1,5 @@
 package paquete1;
-
+//comentario
 public class Persona {
 	private int edad;
 	private String nombre;
