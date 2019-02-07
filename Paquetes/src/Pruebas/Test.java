@@ -7,8 +7,10 @@ public class Test {
 		paquete1.Persona p = new paquete1.Persona(47,"Pepe");
 		paquete2.Persona m = new paquete2.Persona(24, "Penelope", "Femenino");
 		
+		System.out.println("inicio de imprecion");	
 		System.out.println(p.toString());
 		System.out.println(m.toString());
+		System.out.println("fin de imprecion");
 		
 	}
 
